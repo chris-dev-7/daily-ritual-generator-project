@@ -99,8 +99,6 @@ async function getRitualPngToBlob(saveShareRef){
 
 export async function shareRitual ( shareUrl, formattedDate, imageFile ) {
 
-
-
   if(navigator.share){
 
     try {

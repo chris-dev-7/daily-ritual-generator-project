@@ -119,9 +119,9 @@ function generateRandomActivities(){
 }
 
 //Button Click Logic: generate new activities OR save & share when all locked
-const handleGeneratedClick = () => {
+const handleGeneratedClick = async () => {
   if (checkIfAllLocked()) {
-    shareDailyRitual(saveShareRef, selectedActivities)
+    await shareDailyRitual(saveShareRef, selectedActivities)
     return
   }
   generateRandomActivities()

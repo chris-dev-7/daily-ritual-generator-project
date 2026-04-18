@@ -5,6 +5,11 @@
 @theme {
   --font-playfair: "Playfair Display", serif;
   --font-roboto: "Roboto", sans-serif;
+  --color-white: rgb(255 255 255);
+  --color-black: rgb(0 0 0);
+  --color-orange-200: rgb(254 215 170);
+  --color-orange-300: rgb(253 186 116);
+  --color-orange-400: rgb(251 146 60);
 }
 
 * {
