@@ -26,7 +26,7 @@ const creativityActivities = [
   {
     id: 25,
     name: "Mind Mapping",
-    description: "Startw with 1 word in the center of a blank page and branch out with every association it triggers",
+    description: "Start with 1 word in the center of a blank page and branch out with every association it triggers",
     duration: "15 minutes"
   },
   {
