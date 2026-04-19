@@ -7,15 +7,15 @@ const eveningWindDownActivities = [
   },
   {
     id: 42,
-    name: "Reading Time",
-    description: "Read a calming book before bed",
+    name: "Physical Book Reading",
+    description: "Read a physical calming book before bed",
     duration: "30 minutes"
   },
   {
     id: 43,
     name: "Gentle Stretching",
     description: "Do gentle stretches to release the day's tension",
-    duration: "15 minutes"
+    duration: "10 minutes"
   },
   {
     id: 44,
@@ -25,13 +25,13 @@ const eveningWindDownActivities = [
   },
   {
     id: 45,
-    name: "Meditation",
+    name: "Sleep Meditation",
     description: "Practice a guided sleep meditation",
     duration: "20 minutes"
   },
   {
     id: 46,
-    name: "Herbal Tea",
+    name: "Herbal Tea Ritual",
     description: "Sip chamomile or lavender tea while relaxing",
     duration: "15 minutes"
   },
@@ -43,8 +43,8 @@ const eveningWindDownActivities = [
   },
   {
     id: 48,
-    name: "Skincare Routine",
-    description: "Take time for a calming skincare ritual",
+    name: "Visualization Practice",
+    description: "Lie in bed and vividly imagine your ideal version of tomorrow — FEEL it",
     duration: "10 minutes"
   },
   {

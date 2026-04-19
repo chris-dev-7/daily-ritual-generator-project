@@ -44,7 +44,7 @@ const mindfulnessActivities = [
   {
     id: 18,
     name: "Walking Meditation",
-    description: "Take a slow, mindful walk focusing on each step",
+    description: "Take a slow, mindful walk focusing on all 5 senses 1 at a time",
     duration: "20 minutes"
   },
   {

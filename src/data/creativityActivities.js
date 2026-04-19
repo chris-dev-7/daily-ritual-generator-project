@@ -1,8 +1,8 @@
 const creativityActivities = [
   {
     id: 21,
-    name: "Sketch Something",
-    description: "Draw or doodle without judging the outcome",
+    name: "Sketchnoting",
+    description: "Pick a concept, article, or memory and represent it visually using simple drawings",
     duration: "15 minutes"
   },
   {
@@ -19,15 +19,15 @@ const creativityActivities = [
   },
   {
     id: 24,
-    name: "Dance Break",
-    description: "Put on your favorite song and dance like nobody's watching",
-    duration: "10 minutes"
+    name: "Inspired Listening",
+    description: "Put on an instrumental playlist, close your eyes, let it guide your imagination",
+    duration: "20 minutes"
   },
   {
     id: 25,
-    name: "DIY Craft",
-    description: "Create something with materials you have at home",
-    duration: "30 minutes"
+    name: "Mind Mapping",
+    description: "Startw with 1 word in the center of a blank page and branch out with every association it triggers",
+    duration: "15 minutes"
   },
   {
     id: 26,
@@ -37,9 +37,9 @@ const creativityActivities = [
   },
   {
     id: 27,
-    name: "Music Making",
-    description: "Play an instrument or create music with an app",
-    duration: "30 minutes"
+    name: "Voice Memo Brainstorm",
+    description: "Record yourself talking through an idea or question out loud. No stopping",
+    duration: "10 minutes"
   },
   {
     id: 28,

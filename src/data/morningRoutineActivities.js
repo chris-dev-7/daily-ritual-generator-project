@@ -25,19 +25,19 @@ const morningRoutineActivities = [
   },
   {
     id: 5,
-    name: "Morning Pages",
-    description: "Write 3 pages of stream-of-consciousness thoughts to clear your mind",
-    duration: "30 minutes"
+    name: "Breathwork Wake-Up",
+    description: "Practice 10 rounds of deep belly breathing arrive fully in the present moment",
+    duration: "5 minutes"
   },
   {
     id: 6,
-    name: "Healthy Breakfast",
-    description: "Prepare and mindfully enjoy a nutritious breakfast",
+    name: "Nourishing Breakfast",
+    description: "Prepare and mindfully enjoy a nutritious whole-food breakfast",
     duration: "20 minutes"
   },
   {
     id: 7,
-    name: "Morning Walk",
+    name: "Sunlight Walk",
     description: "Take a walk to get fresh air and natural light",
     duration: "15 minutes"
   },

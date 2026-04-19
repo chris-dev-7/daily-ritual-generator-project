@@ -13,14 +13,14 @@ const movementActivities = [
   },
   {
     id: 33,
-    name: "Nature Hike",
-    description: "Take a hike in nature or your local park",
+    name: "Zone 2 Cardio",
+    description: "Walk, jog or cycle at a conversational pace where you could hold a full sentence.",
     duration: "30 minutes"
   },
   {
     id: 34,
-    name: "Dance Party",
-    description: "Dance to upbeat music",
+    name: "Dance Break",
+    description: "Put on a song you love and move freely without choreography or rules",
     duration: "20 minutes"
   },
   {
@@ -37,9 +37,9 @@ const movementActivities = [
   },
   {
     id: 37,
-    name: "Swimming",
-    description: "Swim laps or do water aerobics",
-    duration: "30 minutes"
+    name: "Staircase Workout",
+    description: "Use stairs at home,in your building, or outside to do repeated steps",
+    duration: "15 minutes"
   },
   {
     id: 38,
@@ -55,9 +55,9 @@ const movementActivities = [
   },
   {
     id: 40,
-    name: "Tai Chi",
-    description: "Practice slow, flowing Tai Chi movements",
-    duration: "25 minutes"
+    name: "Walking Meeting",
+    description: "Replace a sitting call with a walk",
+    duration: "20 minutes"
   }
 ]
 
